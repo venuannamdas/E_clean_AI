@@ -21,4 +21,17 @@ By considering these points, we can ensure that the email response recommendatio
 
 
 
-Reference 1: The Enron Email Dataset | Kaggle
+Reference 1:
+The Enron Email Dataset | Kaggle
+
+https://www.demandsage.com/how-many-emails-are-sent-per-day/
+
+https://earthweb.com/how-many-emails-does-the-average-person-receive-per-day/#:~:text=billion%20by%202023.-,2.,by%20an%20average%20office%20worker
+
+https://www.slicktext.com/blog/2019/06/survey-workplace-communication-statistics/#:~:text=Almost%20half%20(45.6%25)%20of,some%20emails%20in%20their%20inbox
+
+https://www.digitalinformationworld.com/2023/01/people-spend-33-less-time-reading.html#:~:text=Back%20in%202018%2C%20studies%20showed,considered%20and%20taken%20into%20account
+
+https://hbr.org/2019/01/how-to-spend-way-less-time-on-email-every-day#:~:text=The%20average%20professional%20spends%2028,120%20messages%20received%20per%20day
+
+https://hbr.org/2019/01/how-to-spend-way-less-time-on-email-every-day#:~:text=The%20average%20professional%20spends%2028,120%20messages%20received%20per%20day
